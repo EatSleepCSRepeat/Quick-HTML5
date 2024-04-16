@@ -2,12 +2,7 @@
 This is an HTML5 editor using Python.
 
 # How to Download
-   ___        _      _      _   _ _____ __  __ _     ____  
-  / _ \ _   _(_) ___| | __ | | | |_   _|  \/  | |   | ___| 
- | | | | | | | |/ __| |/ / | |_| | | | | |\/| | |   |___ \ 
- | |_| | |_| | | (__|   <  |  _  | | | | |  | | |___ ___) |
-  \__\_\\__,_|_|\___|_|\_\ |_| |_| |_| |_|  |_|_____|____/ 
-                                                           
+Q U I C K H T M L 5                                          
 
 Welcome to Quick HTML5.
 This was made with Python.
@@ -38,13 +33,7 @@ Wait for it to convert and click "OPEN OUTPUT FOLDER".
 
 Open the EXE file (KEEP APTE OPEN).
 You installed
-
-   ___        _      _      _   _ _____ __  __ _     ____  
-  / _ \ _   _(_) ___| | __ | | | |_   _|  \/  | |   | ___| 
- | | | | | | | |/ __| |/ / | |_| | | | | |\/| | |   |___ \ 
- | |_| | |_| | | (__|   <  |  _  | | | | |  | | |___ ___) |
-  \__\_\\__,_|_|\___|_|\_\ |_| |_| |_| |_|  |_|_____|____/ 
-
+Q U I C K H T M L 5!
 Have fun!
 
 
